@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#cabeça{
+    background-color: #19A5F3;
+    height: 199px;
+    width: 100%;
+}
+#título{
+    float: left;
+    padding-top: 50px;
+    padding-left: 30px;
+    font-size: 40px;
+    color: white;
+}
+#turma{
+    float: right;
+    padding-top: 50px;
+    padding-right: 200px;
+    font-size: 50px;
+    color: white;
+
+}
+#corpo{
+    background-image: linear-gradient(#1858B9, #2BF5A0);
+    width: 100%;
+    height: 1676px;
+}
+#texto1{
+    position: absolute;
+    left: 36px;
+    top: 245px;
+
+    font-family: 'Kanit';
+    font-style: italic;
+    font-size: 40px;
+    line-height: 60px;
+    color: white;
+}
+#gmail{
+    position: absolute;
+    width: 290px;
+    height: 106px;
+    left: 158px;
+    top: 847px;
+
+
+
+}
+#botão1{
+  background-color: red;
+  height: 200px;
+  width: 400px;
+  font-size: 50px;
+
+}
+#botão2{
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    left: 800px;
+    top: 847px;
+    background-color: #2F2BEE;
+    font-size: 50px;
+}
+#botão3{
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    left: 1400px;
+    top: 847px;
+    font-size: 50px;
+    background-color: #716262;
+}
+#botão4{
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    left: 158px;
+    top: 1200px;
+    font-size: 50px;
+    background-color: #00FDCF;
+}
+#botão5{
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    left: 800px;
+    top: 1200px;
+    font-size: 50px;
+    background-color: yellow;
+}
+#botão6{
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    left: 1400px;
+    top: 1200px;
+    font-size: 50px;
+    background-color: pink;
+}
+#texto2{
+    position: absolute;
+width: 1248px;
+height: 463px;
+left: 450px;
+top: 1500px;
+
+font-family: 'Kanit';
+font-style: italic;
+font-weight: 500;
+font-size: 40px;
+line-height: 60px;
+color: white;
+}
+#rodapé{
+    position: absolute;
+width: 100%;
+height: 302px;
+left: 0px;
+top: 1875px;
+
+background: #1CDA93;
+}
+#texto3{
+    position: absolute;
+width: 359px;
+height: 160px;
+left: 143px;
+top: 100px;
+
+font-family: 'Kanit';
+font-style: italic;
+font-weight: 500;
+font-size: 40px;
+line-height: 60px;
+
+color: #170A0A;
+
+}
+#texto4{
+    position: absolute;
+width: 710px;
+height: 97px;
+left: 800px;
+top: 100px;
+
+font-family: '';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 73px;
+
+color: #CE0000;
+}
